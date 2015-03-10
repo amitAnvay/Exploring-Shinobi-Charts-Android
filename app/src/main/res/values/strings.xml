@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Shinobi Charts</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="piChart">Pie Chart</string>
+    <string name="BarChart">Bar Chart</string>
+    <string name="PanAndZoom">Pan And Zoom</string>
+    <string name="license">KFUeGSzqF51lBMcMjAxNTA0MDZhbWl0Zzk1QGdtYWlsLmNvbQ==50LCHohG2uwpvfGaUFMvhaba8PGK7quvlziP9CtY11Iap6e8ZjVYJlq2U6pIkUT+BEVgmQ3HwBQM8aU/x/RRxAcoKQ9GoCwUQ6FCh2QktLGb+CNXi3B2gkWYISyUnTHWSz4pEndGzgxnya3/E7D3lT35FN1g=BQxSUisl3BaWf/7myRmmlIjRnMU2cA7q+/03ZX9wdj30RzapYANf51ee3Pi8m2rVW6aD7t6Hi4Qy5vv9xpaQYXF5T7XzsafhzS3hbBokp36BoJZg8IrceBj742nQajYyV7trx5GIw9jy/V6r0bvctKYwTim7Kzq+YPWGMtqtQoU=PFJTQUtleVZhbHVlPjxNb2R1bHVzPnh6YlRrc2dYWWJvQUh5VGR6dkNzQXUrUVAxQnM5b2VrZUxxZVdacnRFbUx3OHZlWStBK3pteXg4NGpJbFkzT2hGdlNYbHZDSjlKVGZQTTF4S2ZweWZBVXBGeXgxRnVBMThOcDNETUxXR1JJbTJ6WXA3a1YyMEdYZGU3RnJyTHZjdGhIbW1BZ21PTTdwMFBsNWlSKzNVMDg5M1N4b2hCZlJ5RHdEeE9vdDNlMD08L01vZHVsdXM+PEV4cG9uZW50PkFRQUI8L0V4cG9uZW50PjwvUlNBS2V5VmFsdWU+</string>
+    <string name="showCandleStickChart">Candle Stick Chart</string>
+    <string name="showColSeriesStacking">Column Series Stacking</string>
+    <string name="showTickLabelFormating">Tick Label Formatting</string>
+    <!--<string name="action_settings">Settings</string>-->
+    <!--<string name="action_settings">Settings</string>-->
+    <!--<string name="action_settings">Settings</string>-->
+    <!--<string name="action_settings">Settings</string>-->
+    <!--<string name="action_settings">Settings</string>-->
+    <!--<string name="action_settings">Settings</string>-->
+    <!--<string name="action_settings">Settings</string>-->
+    <!--<string name="action_settings">Settings</string>-->
+    <!--<string name="action_settings">Settings</string>-->
+
+</resources>
